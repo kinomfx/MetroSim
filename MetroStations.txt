@@ -1,0 +1,201 @@
+##Magenta
+Janakpuri West, 314
+Dabri Mor - Janakpuri South, 601
+Dashrathpuri, 602
+Palam, 603
+Sadar Bazar Cantonment, 604
+Terminal 1-IGI Airport, 605
+Shankar Vihar, 606
+Vasant Vihar, 607
+Munirka, 608
+R.K. Puram, 609
+IIT Delhi, 610
+Hauz Khas, 224
+Panchsheel Park, 611
+Chirag Delhi, 612
+Greater Kailash, 613
+Nehru Enclave, 614
+Kalkaji Mandir, 615
+Okhla NSIC, 616
+Sukhdev Vihar, 617
+Jamia Millia Islamia, 618
+Okhla Vihar, 619
+Jasola Vihar Shaheen Bagh, 620
+Kalindi Kunj, 621
+Okhla Bird Sanctuary, 622
+Botanical Garden, 341
+##Red
+Shaheed Sthal (New Bus Adda), 101
+Hindon River, 102
+Arthala, 103
+Mohan Nagar, 104
+Shyam Park, 105
+Major Mohit Sharma (Rajendra Nagar), 106
+Raj Bagh, 107
+Shaheed Nagar, 108
+Dilshad Garden, 109
+Jhilmil, 110
+Mansarovar Park, 111
+Shahdara, 112
+Welcome, 113
+Seelampur, 114
+Shastri Park, 115
+Kashmere Gate, 116
+Tis Hazari, 117
+Pulbangash, 118
+Pratap Nagar, 119
+Shastri Nagar, 120
+Inderlok, 121
+Kanhaiya Nagar, 122
+Keshav Puram, 123
+Netaji Subhash Place, 124
+Kohat Enclave, 125
+Pitampura, 126
+Rohini East, 127
+Rohini West, 128
+Rithala, 129
+##Yellow
+Samaypur Badli, 201
+Rohini Sector 18/19, 202
+Haiderpur Badli Mor, 203
+Jahangirpuri, 204
+Adarsh Nagar, 205
+Azadpur, 206
+Model Town, 207
+GTB Nagar, 208
+Vishwavidyalaya, 209
+Vidhan Sabha, 210
+Civil Lines, 211
+Kashmere Gate, 116
+Chandni Chowk, 212
+Chawri Bazar, 213
+New Delhi, 214
+Rajiv Chowk, 215
+Patel Chowk, 216
+Central Secretariat, 217
+Udyog Bhawan, 218
+Lok Kalyan Marg, 219
+Jor Bagh, 220
+Dilli Haat - INA, 221
+AIIMS, 222
+Green Park, 223
+Hauz Khas, 224
+Malviya Nagar, 225
+Saket, 226
+Qutab Minar, 227
+Chhatarpur, 228
+Sultanpur, 229
+Ghitorni, 230
+Arjan Garh, 231
+Guru Dronacharya, 232
+Sikandarpur, 233
+MG Road, 234
+IFFCO Chowk, 235
+Millennium City Centre Gurugram, 236
+##Blue
+Dwarka Sector 21, 301
+Dwarka Sector 8, 302
+Dwarka Sector 9, 303
+Dwarka Sector 10, 304
+Dwarka Sector 11, 305
+Dwarka Sector 12, 306
+Dwarka Sector 13, 307
+Dwarka Sector 14, 308
+Dwarka, 309
+Dwarka Mor, 310
+Nawada, 311
+Uttam Nagar West, 312
+Uttam Nagar East, 313
+Janakpuri West, 314
+Janakpuri East, 315
+Tilak Nagar, 316
+Subhash Nagar, 317
+Tagore Garden, 318
+Rajouri Garden, 319
+Ramesh Nagar, 320
+Moti Nagar, 321
+Kirti Nagar, 322
+Shadipur, 323
+Patel Nagar, 324
+Rajendra Place, 325
+Karol Bagh, 326
+Jhandewalan, 327
+RK Ashram Marg, 328
+Rajiv Chowk, 215
+Barakhamba Road, 329
+Mandi House, 330
+Supreme Court, 331
+Indraprastha, 332
+Yamuna Bank, 333
+Akshardham, 334
+Mayur Vihar Phase 1, 335
+Mayur Vihar Extension, 336
+New Ashok Nagar, 337
+Noida Sector 15, 338
+Noida Sector 16, 339
+Noida Sector 18, 340
+Botanical Garden, 341
+Golf Course, 342
+Noida City Centre, 343
+Noida Sector 34, 344
+Noida Sector 52, 345
+Noida Electronic City, 346
+##Green
+Inderlok, 121
+Ashok Park Main, 401
+Punjabi Bagh, 402
+Shivaji Park, 403
+Madipur, 404
+Paschim Vihar East, 405
+Paschim Vihar West, 406
+Peera Garhi, 407
+Udyog Nagar, 408
+Maharaja Surajmal Stadium, 409
+Nangloi, 410
+Nangloi Railway Station, 411
+Rajdhani Park, 412
+Mundka, 413
+Mundka Industrial Area, 414
+Ghevra, 415
+Tikri Kalan, 416
+Tikri Border, 417
+Bahadurgarh City, 418
+Brigadier Hoshiar Singh, 419
+##Pink
+Majlis Park, 501
+Azadpur, 206
+Shalimar Bagh, 502
+Netaji Subhash Place, 124
+Shakurpur, 503
+Punjabi Bagh West, 504
+ESI Hospital, 505
+Rajouri Garden, 319
+Maya Puri, 506
+Naraina Vihar, 507
+Delhi Cantt, 508
+Durgabai Deshmukh South Campus, 509
+Sir Vishweshwaraiah Moti Bagh, 510
+Bhikaji Cama Place, 511
+Sarojini Nagar, 512
+Dilli Haat - INA, 221
+South Extension, 513
+Lajpat Nagar, 514
+Vinobapuri, 515
+Ashram, 516
+Sarai Kale Khan - Nizamuddin, 517
+Mayur Vihar Phase 1, 335
+Trilokpuri - Sanjay Lake, 518
+Vinod Nagar East, 519
+Vinod Nagar West, 520
+IP Extension, 521
+Anand Vihar, 522
+Karkardooma, 523
+Krishna Nagar, 524
+East Azad Nagar, 525
+Welcome, 113
+Jaffrabad, 526
+Maujpur - Babarpur, 527
+Gokulpuri, 528
+Johri Enclave, 529
+Shiv Vihar, 530
+##Dummy
