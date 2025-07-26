@@ -84,7 +84,7 @@ void InitializeConnectedStations(MetroSystem* Delhi){
     }
     
 }
-int main(){
+int tempmain(){
     MetroSystem* Delhi = new MetroSystem();
     Graph* Delhi_Graph = Delhi->G;
     InitializeMetroLines(Delhi , {"Yellow" , "Blue" , "Pink" , "Green" , "Red" , "Magenta"});

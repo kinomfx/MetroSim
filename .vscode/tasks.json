@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build MetroSim",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-Iinclude",
+        "src/*.cpp",
+        "-o",
+        "build/MetroSim.exe",
+        "-lsfml-graphics",
+        "-lsfml-window",
+        "-lsfml-system"
+      ],
+      "group": "build",
+      "problemMatcher": ["$gcc"],
+      "detail": "Compiling MetroSim using g++"
+    },
+    {
+      "label": "Run MetroSim",
+      "type": "shell",
+      "dependsOn": "Build MetroSim",
+      "command": "./build/MetroSim.exe",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    }
+  ]
+}
